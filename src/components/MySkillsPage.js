@@ -122,7 +122,7 @@ I love to create design which speaks, Keep it clean, minimal and simple.
             </Main>
             <Main>
 <Title>
-    <Develope width={40} height={40} /> Frontend Developer
+    <Develope width={40} height={40} /> Full stack Developer
 </Title>
 <Description>
 I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
@@ -130,15 +130,15 @@ I value business or brand for which i'm creating, thus i enjoy bringing new idea
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
+Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase, python, goLang, terraform, helm, devops, CI/CD, Django, flask, fastAPI, GIN etc.
 </p>
 </Description>
-<Description>
+{/* <Description>
 <strong>Tools</strong>
 <p>
 VScode, Github, Codepen etc.
 </p>
-</Description>
+</Description> */}
 
             </Main>
 
